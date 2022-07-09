@@ -21,10 +21,11 @@ body
                 -1px -1px 4px 1px gray,
                 inset 2px 2px 4px 1px gray,
                 inset -2px -2px 4px 1px gray;
-    position: relative;
-    top: -285px;
-    left: -400px;
+    position: absolute;
+    top: 22px;
+    left: 20px;
     z-index:  1000;
+}
 }
 .theme
 {
