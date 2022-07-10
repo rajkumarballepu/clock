@@ -64,7 +64,6 @@ function theme() {
         document.querySelector(".round2").style.borderColor = 'black';
         document.querySelector(".circle").style.color = 'black';
         document.querySelector(".ampm").style.color = 'black';
-        document.querySelectorAll(".col").style.color = 'black';
         document.getElementsByClassName("col")[0].style.color = 'black';
         document.getElementsByClassName("col")[1].style.color = 'black';
     }
